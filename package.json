@@ -19,6 +19,9 @@
     "tail",
     "audio"
   ],
+  "files": [
+    "dist"
+  ],
   "author": "Damo",
   "license": "MIT",
   "dependencies": {
