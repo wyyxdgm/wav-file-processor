@@ -1,0 +1,27 @@
+{
+  "name": "wav-file-processor",
+  "version": "1.0.0",
+  "description": "Intercepts wav file tail audio",
+  "main": "index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wyyxdgm/wav-file-processor.git"
+  },
+  "keywords": [
+    "wav",
+    "utils",
+    "Intercepts",
+    "wav",
+    "tail",
+    "audio"
+  ],
+  "author": "Damo",
+  "license": "MIT",
+  "dependencies": {
+    "wav-file-info": "^0.0.10"
+  }
+}
