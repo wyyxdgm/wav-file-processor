@@ -1,6 +1,6 @@
 {
   "name": "wav-file-processor",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Intercepts wav file tail audio",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
